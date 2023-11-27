@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\classornek\classornek\obj\Debug\classornek.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\classornek\classornek\obj\Debug\classornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\classornek\classornek\obj\Debug\classornek.Form1.resources
+C:\Users\User\source\repos\classornek\classornek\obj\Debug\classornek.Properties.Resources.resources
+C:\Users\User\source\repos\classornek\classornek\obj\Debug\classornek.csproj.GenerateResource.cache
+C:\Users\User\source\repos\classornek\classornek\obj\Debug\classornek.csproj.CoreCompileInputs.cache
